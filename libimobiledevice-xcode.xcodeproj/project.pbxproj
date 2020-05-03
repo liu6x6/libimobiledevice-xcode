@@ -85,6 +85,34 @@
 		91A8D433245E5CD3003CC9D5 /* libimobiledevice.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; };
 		91A8D436245E5CD3003CC9D5 /* libimobiledevice.dylib in Embed Libraries */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		91A8D43B245E5CEF003CC9D5 /* idevicebackup.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3E2245E4A4F003CC9D5 /* idevicebackup.c */; };
+		91A8D441245E5E1E003CC9D5 /* utils.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3C7245C64C8003CC9D5 /* utils.c */; };
+		91A8D443245E5E1E003CC9D5 /* libimobiledevice.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; };
+		91A8D446245E5E1E003CC9D5 /* libimobiledevice.dylib in Embed Libraries */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		91A8D44B245E5E3B003CC9D5 /* idevicedebug.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3E5245E4A4F003CC9D5 /* idevicedebug.c */; };
+		91A8D451245E5E61003CC9D5 /* utils.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3C7245C64C8003CC9D5 /* utils.c */; };
+		91A8D453245E5E61003CC9D5 /* libimobiledevice.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; };
+		91A8D456245E5E61003CC9D5 /* libimobiledevice.dylib in Embed Libraries */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		91A8D45B245E5E8E003CC9D5 /* idevicesyslog.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3E6245E4A4F003CC9D5 /* idevicesyslog.c */; };
+		91A8D461245E5F12003CC9D5 /* utils.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3C7245C64C8003CC9D5 /* utils.c */; };
+		91A8D463245E5F12003CC9D5 /* libimobiledevice.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; };
+		91A8D466245E5F12003CC9D5 /* libimobiledevice.dylib in Embed Libraries */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		91A8D46B245E5F33003CC9D5 /* ideviceprovision.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3E7245E4A4F003CC9D5 /* ideviceprovision.c */; };
+		91A8D471245E627F003CC9D5 /* utils.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3C7245C64C8003CC9D5 /* utils.c */; };
+		91A8D473245E627F003CC9D5 /* libimobiledevice.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; };
+		91A8D476245E627F003CC9D5 /* libimobiledevice.dylib in Embed Libraries */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		91A8D47B245E62B1003CC9D5 /* idevicescreenshot.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3E8245E4A4F003CC9D5 /* idevicescreenshot.c */; };
+		91A8D481245E64C6003CC9D5 /* utils.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3C7245C64C8003CC9D5 /* utils.c */; };
+		91A8D483245E64C6003CC9D5 /* libimobiledevice.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; };
+		91A8D486245E64C6003CC9D5 /* libimobiledevice.dylib in Embed Libraries */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		91A8D48B245E64EA003CC9D5 /* idevicediagnostics.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3E9245E4A4F003CC9D5 /* idevicediagnostics.c */; };
+		91A8D491245E657A003CC9D5 /* utils.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3C7245C64C8003CC9D5 /* utils.c */; };
+		91A8D493245E657A003CC9D5 /* libimobiledevice.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; };
+		91A8D496245E657A003CC9D5 /* libimobiledevice.dylib in Embed Libraries */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		91A8D49B245E65B3003CC9D5 /* idevicesetlocation.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3F2245E4A50003CC9D5 /* idevicesetlocation.c */; };
+		91A8D4A1245E660B003CC9D5 /* utils.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3C7245C64C8003CC9D5 /* utils.c */; };
+		91A8D4A3245E660B003CC9D5 /* libimobiledevice.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; };
+		91A8D4A6245E660B003CC9D5 /* libimobiledevice.dylib in Embed Libraries */ = {isa = PBXBuildFile; fileRef = 91A8D351245C5527003CC9D5 /* libimobiledevice.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		91A8D4AB245E663E003CC9D5 /* idevicecrashreport.c in Sources */ = {isa = PBXBuildFile; fileRef = 91A8D3EB245E4A4F003CC9D5 /* idevicecrashreport.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -117,6 +145,55 @@
 			remoteInfo = imobiledevice;
 		};
 		91A8D42E245E5CD3003CC9D5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 91A8D33B245C54BC003CC9D5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 91A8D350245C5527003CC9D5;
+			remoteInfo = imobiledevice;
+		};
+		91A8D43E245E5E1E003CC9D5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 91A8D33B245C54BC003CC9D5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 91A8D350245C5527003CC9D5;
+			remoteInfo = imobiledevice;
+		};
+		91A8D44E245E5E61003CC9D5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 91A8D33B245C54BC003CC9D5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 91A8D350245C5527003CC9D5;
+			remoteInfo = imobiledevice;
+		};
+		91A8D45E245E5F12003CC9D5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 91A8D33B245C54BC003CC9D5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 91A8D350245C5527003CC9D5;
+			remoteInfo = imobiledevice;
+		};
+		91A8D46E245E627F003CC9D5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 91A8D33B245C54BC003CC9D5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 91A8D350245C5527003CC9D5;
+			remoteInfo = imobiledevice;
+		};
+		91A8D47E245E64C6003CC9D5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 91A8D33B245C54BC003CC9D5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 91A8D350245C5527003CC9D5;
+			remoteInfo = imobiledevice;
+		};
+		91A8D48E245E657A003CC9D5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 91A8D33B245C54BC003CC9D5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 91A8D350245C5527003CC9D5;
+			remoteInfo = imobiledevice;
+		};
+		91A8D49E245E660B003CC9D5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 91A8D33B245C54BC003CC9D5 /* Project object */;
 			proxyType = 1;
@@ -226,6 +303,146 @@
 			name = "Embed Libraries";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		91A8D444245E5E1E003CC9D5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		91A8D445245E5E1E003CC9D5 /* Embed Libraries */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				91A8D446245E5E1E003CC9D5 /* libimobiledevice.dylib in Embed Libraries */,
+			);
+			name = "Embed Libraries";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D454245E5E61003CC9D5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		91A8D455245E5E61003CC9D5 /* Embed Libraries */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				91A8D456245E5E61003CC9D5 /* libimobiledevice.dylib in Embed Libraries */,
+			);
+			name = "Embed Libraries";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D464245E5F12003CC9D5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		91A8D465245E5F12003CC9D5 /* Embed Libraries */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				91A8D466245E5F12003CC9D5 /* libimobiledevice.dylib in Embed Libraries */,
+			);
+			name = "Embed Libraries";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D474245E627F003CC9D5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		91A8D475245E627F003CC9D5 /* Embed Libraries */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				91A8D476245E627F003CC9D5 /* libimobiledevice.dylib in Embed Libraries */,
+			);
+			name = "Embed Libraries";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D484245E64C6003CC9D5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		91A8D485245E64C6003CC9D5 /* Embed Libraries */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				91A8D486245E64C6003CC9D5 /* libimobiledevice.dylib in Embed Libraries */,
+			);
+			name = "Embed Libraries";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D494245E657A003CC9D5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		91A8D495245E657A003CC9D5 /* Embed Libraries */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				91A8D496245E657A003CC9D5 /* libimobiledevice.dylib in Embed Libraries */,
+			);
+			name = "Embed Libraries";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D4A4245E660B003CC9D5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		91A8D4A5245E660B003CC9D5 /* Embed Libraries */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				91A8D4A6245E660B003CC9D5 /* libimobiledevice.dylib in Embed Libraries */,
+			);
+			name = "Embed Libraries";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
@@ -314,6 +531,13 @@
 		91A8D41B245E5063003CC9D5 /* idevicename */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = idevicename; sourceTree = BUILT_PRODUCTS_DIR; };
 		91A8D42A245E5C56003CC9D5 /* idevicedate */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = idevicedate; sourceTree = BUILT_PRODUCTS_DIR; };
 		91A8D43A245E5CD3003CC9D5 /* idevicebackup */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = idevicebackup; sourceTree = BUILT_PRODUCTS_DIR; };
+		91A8D44A245E5E1E003CC9D5 /* idevicedebug */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = idevicedebug; sourceTree = BUILT_PRODUCTS_DIR; };
+		91A8D45A245E5E61003CC9D5 /* idevicesyslog */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = idevicesyslog; sourceTree = BUILT_PRODUCTS_DIR; };
+		91A8D46A245E5F12003CC9D5 /* ideviceprovision */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ideviceprovision; sourceTree = BUILT_PRODUCTS_DIR; };
+		91A8D47A245E627F003CC9D5 /* idevicescreenshot */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = idevicescreenshot; sourceTree = BUILT_PRODUCTS_DIR; };
+		91A8D48A245E64C6003CC9D5 /* idevicediagnostics */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = idevicediagnostics; sourceTree = BUILT_PRODUCTS_DIR; };
+		91A8D49A245E657A003CC9D5 /* idevicesetlocation */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = idevicesetlocation; sourceTree = BUILT_PRODUCTS_DIR; };
+		91A8D4AA245E660B003CC9D5 /* idevicecrashreport */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = idevicecrashreport; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -364,6 +588,62 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		91A8D442245E5E1E003CC9D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D443245E5E1E003CC9D5 /* libimobiledevice.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D452245E5E61003CC9D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D453245E5E61003CC9D5 /* libimobiledevice.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D462245E5F12003CC9D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D463245E5F12003CC9D5 /* libimobiledevice.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D472245E627F003CC9D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D473245E627F003CC9D5 /* libimobiledevice.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D482245E64C6003CC9D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D483245E64C6003CC9D5 /* libimobiledevice.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D492245E657A003CC9D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D493245E657A003CC9D5 /* libimobiledevice.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D4A2245E660B003CC9D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D4A3245E660B003CC9D5 /* libimobiledevice.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -387,6 +667,13 @@
 				91A8D41B245E5063003CC9D5 /* idevicename */,
 				91A8D42A245E5C56003CC9D5 /* idevicedate */,
 				91A8D43A245E5CD3003CC9D5 /* idevicebackup */,
+				91A8D44A245E5E1E003CC9D5 /* idevicedebug */,
+				91A8D45A245E5E61003CC9D5 /* idevicesyslog */,
+				91A8D46A245E5F12003CC9D5 /* ideviceprovision */,
+				91A8D47A245E627F003CC9D5 /* idevicescreenshot */,
+				91A8D48A245E64C6003CC9D5 /* idevicediagnostics */,
+				91A8D49A245E657A003CC9D5 /* idevicesetlocation */,
+				91A8D4AA245E660B003CC9D5 /* idevicecrashreport */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -678,6 +965,139 @@
 			productReference = 91A8D43A245E5CD3003CC9D5 /* idevicebackup */;
 			productType = "com.apple.product-type.tool";
 		};
+		91A8D43C245E5E1E003CC9D5 /* idevicedebug */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 91A8D447245E5E1E003CC9D5 /* Build configuration list for PBXNativeTarget "idevicedebug" */;
+			buildPhases = (
+				91A8D43F245E5E1E003CC9D5 /* Sources */,
+				91A8D442245E5E1E003CC9D5 /* Frameworks */,
+				91A8D444245E5E1E003CC9D5 /* CopyFiles */,
+				91A8D445245E5E1E003CC9D5 /* Embed Libraries */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				91A8D43D245E5E1E003CC9D5 /* PBXTargetDependency */,
+			);
+			name = idevicedebug;
+			productName = ideviceinfo;
+			productReference = 91A8D44A245E5E1E003CC9D5 /* idevicedebug */;
+			productType = "com.apple.product-type.tool";
+		};
+		91A8D44C245E5E61003CC9D5 /* idevicesyslog */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 91A8D457245E5E61003CC9D5 /* Build configuration list for PBXNativeTarget "idevicesyslog" */;
+			buildPhases = (
+				91A8D44F245E5E61003CC9D5 /* Sources */,
+				91A8D452245E5E61003CC9D5 /* Frameworks */,
+				91A8D454245E5E61003CC9D5 /* CopyFiles */,
+				91A8D455245E5E61003CC9D5 /* Embed Libraries */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				91A8D44D245E5E61003CC9D5 /* PBXTargetDependency */,
+			);
+			name = idevicesyslog;
+			productName = ideviceinfo;
+			productReference = 91A8D45A245E5E61003CC9D5 /* idevicesyslog */;
+			productType = "com.apple.product-type.tool";
+		};
+		91A8D45C245E5F12003CC9D5 /* ideviceprovision */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 91A8D467245E5F12003CC9D5 /* Build configuration list for PBXNativeTarget "ideviceprovision" */;
+			buildPhases = (
+				91A8D45F245E5F12003CC9D5 /* Sources */,
+				91A8D462245E5F12003CC9D5 /* Frameworks */,
+				91A8D464245E5F12003CC9D5 /* CopyFiles */,
+				91A8D465245E5F12003CC9D5 /* Embed Libraries */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				91A8D45D245E5F12003CC9D5 /* PBXTargetDependency */,
+			);
+			name = ideviceprovision;
+			productName = ideviceinfo;
+			productReference = 91A8D46A245E5F12003CC9D5 /* ideviceprovision */;
+			productType = "com.apple.product-type.tool";
+		};
+		91A8D46C245E627F003CC9D5 /* idevicescreenshot */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 91A8D477245E627F003CC9D5 /* Build configuration list for PBXNativeTarget "idevicescreenshot" */;
+			buildPhases = (
+				91A8D46F245E627F003CC9D5 /* Sources */,
+				91A8D472245E627F003CC9D5 /* Frameworks */,
+				91A8D474245E627F003CC9D5 /* CopyFiles */,
+				91A8D475245E627F003CC9D5 /* Embed Libraries */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				91A8D46D245E627F003CC9D5 /* PBXTargetDependency */,
+			);
+			name = idevicescreenshot;
+			productName = ideviceinfo;
+			productReference = 91A8D47A245E627F003CC9D5 /* idevicescreenshot */;
+			productType = "com.apple.product-type.tool";
+		};
+		91A8D47C245E64C6003CC9D5 /* idevicediagnostics */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 91A8D487245E64C6003CC9D5 /* Build configuration list for PBXNativeTarget "idevicediagnostics" */;
+			buildPhases = (
+				91A8D47F245E64C6003CC9D5 /* Sources */,
+				91A8D482245E64C6003CC9D5 /* Frameworks */,
+				91A8D484245E64C6003CC9D5 /* CopyFiles */,
+				91A8D485245E64C6003CC9D5 /* Embed Libraries */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				91A8D47D245E64C6003CC9D5 /* PBXTargetDependency */,
+			);
+			name = idevicediagnostics;
+			productName = ideviceinfo;
+			productReference = 91A8D48A245E64C6003CC9D5 /* idevicediagnostics */;
+			productType = "com.apple.product-type.tool";
+		};
+		91A8D48C245E657A003CC9D5 /* idevicesetlocation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 91A8D497245E657A003CC9D5 /* Build configuration list for PBXNativeTarget "idevicesetlocation" */;
+			buildPhases = (
+				91A8D48F245E657A003CC9D5 /* Sources */,
+				91A8D492245E657A003CC9D5 /* Frameworks */,
+				91A8D494245E657A003CC9D5 /* CopyFiles */,
+				91A8D495245E657A003CC9D5 /* Embed Libraries */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				91A8D48D245E657A003CC9D5 /* PBXTargetDependency */,
+			);
+			name = idevicesetlocation;
+			productName = ideviceinfo;
+			productReference = 91A8D49A245E657A003CC9D5 /* idevicesetlocation */;
+			productType = "com.apple.product-type.tool";
+		};
+		91A8D49C245E660B003CC9D5 /* idevicecrashreport */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 91A8D4A7245E660B003CC9D5 /* Build configuration list for PBXNativeTarget "idevicecrashreport" */;
+			buildPhases = (
+				91A8D49F245E660B003CC9D5 /* Sources */,
+				91A8D4A2245E660B003CC9D5 /* Frameworks */,
+				91A8D4A4245E660B003CC9D5 /* CopyFiles */,
+				91A8D4A5245E660B003CC9D5 /* Embed Libraries */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				91A8D49D245E660B003CC9D5 /* PBXTargetDependency */,
+			);
+			name = idevicecrashreport;
+			productName = ideviceinfo;
+			productReference = 91A8D4AA245E660B003CC9D5 /* idevicecrashreport */;
+			productType = "com.apple.product-type.tool";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -717,6 +1137,13 @@
 				91A8D40D245E5063003CC9D5 /* idevicename */,
 				91A8D41D245E5C56003CC9D5 /* idevicedate */,
 				91A8D42C245E5CD3003CC9D5 /* idevicebackup */,
+				91A8D43C245E5E1E003CC9D5 /* idevicedebug */,
+				91A8D44C245E5E61003CC9D5 /* idevicesyslog */,
+				91A8D45C245E5F12003CC9D5 /* ideviceprovision */,
+				91A8D46C245E627F003CC9D5 /* idevicescreenshot */,
+				91A8D47C245E64C6003CC9D5 /* idevicediagnostics */,
+				91A8D48C245E657A003CC9D5 /* idevicesetlocation */,
+				91A8D49C245E660B003CC9D5 /* idevicecrashreport */,
 			);
 		};
 /* End PBXProject section */
@@ -801,6 +1228,69 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		91A8D43F245E5E1E003CC9D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D44B245E5E3B003CC9D5 /* idevicedebug.c in Sources */,
+				91A8D441245E5E1E003CC9D5 /* utils.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D44F245E5E61003CC9D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D45B245E5E8E003CC9D5 /* idevicesyslog.c in Sources */,
+				91A8D451245E5E61003CC9D5 /* utils.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D45F245E5F12003CC9D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D46B245E5F33003CC9D5 /* ideviceprovision.c in Sources */,
+				91A8D461245E5F12003CC9D5 /* utils.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D46F245E627F003CC9D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D47B245E62B1003CC9D5 /* idevicescreenshot.c in Sources */,
+				91A8D471245E627F003CC9D5 /* utils.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D47F245E64C6003CC9D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D48B245E64EA003CC9D5 /* idevicediagnostics.c in Sources */,
+				91A8D481245E64C6003CC9D5 /* utils.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D48F245E657A003CC9D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D49B245E65B3003CC9D5 /* idevicesetlocation.c in Sources */,
+				91A8D491245E657A003CC9D5 /* utils.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		91A8D49F245E660B003CC9D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91A8D4AB245E663E003CC9D5 /* idevicecrashreport.c in Sources */,
+				91A8D4A1245E660B003CC9D5 /* utils.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -828,6 +1318,41 @@
 			isa = PBXTargetDependency;
 			target = 91A8D350245C5527003CC9D5 /* imobiledevice */;
 			targetProxy = 91A8D42E245E5CD3003CC9D5 /* PBXContainerItemProxy */;
+		};
+		91A8D43D245E5E1E003CC9D5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 91A8D350245C5527003CC9D5 /* imobiledevice */;
+			targetProxy = 91A8D43E245E5E1E003CC9D5 /* PBXContainerItemProxy */;
+		};
+		91A8D44D245E5E61003CC9D5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 91A8D350245C5527003CC9D5 /* imobiledevice */;
+			targetProxy = 91A8D44E245E5E61003CC9D5 /* PBXContainerItemProxy */;
+		};
+		91A8D45D245E5F12003CC9D5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 91A8D350245C5527003CC9D5 /* imobiledevice */;
+			targetProxy = 91A8D45E245E5F12003CC9D5 /* PBXContainerItemProxy */;
+		};
+		91A8D46D245E627F003CC9D5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 91A8D350245C5527003CC9D5 /* imobiledevice */;
+			targetProxy = 91A8D46E245E627F003CC9D5 /* PBXContainerItemProxy */;
+		};
+		91A8D47D245E64C6003CC9D5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 91A8D350245C5527003CC9D5 /* imobiledevice */;
+			targetProxy = 91A8D47E245E64C6003CC9D5 /* PBXContainerItemProxy */;
+		};
+		91A8D48D245E657A003CC9D5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 91A8D350245C5527003CC9D5 /* imobiledevice */;
+			targetProxy = 91A8D48E245E657A003CC9D5 /* PBXContainerItemProxy */;
+		};
+		91A8D49D245E660B003CC9D5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 91A8D350245C5527003CC9D5 /* imobiledevice */;
+			targetProxy = 91A8D49E245E660B003CC9D5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -1267,6 +1792,360 @@
 			};
 			name = Release;
 		};
+		91A8D448245E5E1E003CC9D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		91A8D449245E5E1E003CC9D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		91A8D458245E5E61003CC9D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		91A8D459245E5E61003CC9D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		91A8D468245E5F12003CC9D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+					"\"$(SRCROOT)/libimobiledevice-xcode/common\"",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		91A8D469245E5F12003CC9D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+					"\"$(SRCROOT)/libimobiledevice-xcode/common\"",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		91A8D478245E627F003CC9D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		91A8D479245E627F003CC9D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		91A8D488245E64C6003CC9D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		91A8D489245E64C6003CC9D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		91A8D498245E657A003CC9D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		91A8D499245E657A003CC9D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		91A8D4A8245E660B003CC9D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		91A8D4A9245E660B003CC9D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/libimobiledevice-xcode/include\"",
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/include",
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Cellar/openssl@1.1/1.1.1d/lib",
+					/usr/local/Cellar/libimobiledevice/1.2.0_2/lib,
+					/usr/local/Cellar/libusbmuxd/1.0.10_1/lib,
+					/usr/local/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lcrypto",
+					"-lssl",
+					"-lplist",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -1329,6 +2208,69 @@
 			buildConfigurations = (
 				91A8D438245E5CD3003CC9D5 /* Debug */,
 				91A8D439245E5CD3003CC9D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		91A8D447245E5E1E003CC9D5 /* Build configuration list for PBXNativeTarget "idevicedebug" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91A8D448245E5E1E003CC9D5 /* Debug */,
+				91A8D449245E5E1E003CC9D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		91A8D457245E5E61003CC9D5 /* Build configuration list for PBXNativeTarget "idevicesyslog" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91A8D458245E5E61003CC9D5 /* Debug */,
+				91A8D459245E5E61003CC9D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		91A8D467245E5F12003CC9D5 /* Build configuration list for PBXNativeTarget "ideviceprovision" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91A8D468245E5F12003CC9D5 /* Debug */,
+				91A8D469245E5F12003CC9D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		91A8D477245E627F003CC9D5 /* Build configuration list for PBXNativeTarget "idevicescreenshot" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91A8D478245E627F003CC9D5 /* Debug */,
+				91A8D479245E627F003CC9D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		91A8D487245E64C6003CC9D5 /* Build configuration list for PBXNativeTarget "idevicediagnostics" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91A8D488245E64C6003CC9D5 /* Debug */,
+				91A8D489245E64C6003CC9D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		91A8D497245E657A003CC9D5 /* Build configuration list for PBXNativeTarget "idevicesetlocation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91A8D498245E657A003CC9D5 /* Debug */,
+				91A8D499245E657A003CC9D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		91A8D4A7245E660B003CC9D5 /* Build configuration list for PBXNativeTarget "idevicecrashreport" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91A8D4A8245E660B003CC9D5 /* Debug */,
+				91A8D4A9245E660B003CC9D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -55,7 +55,7 @@ static void print_usage(int argc, char **argv, int is_error)
 	  "  -h, --help         prints usage information\n" \
 	  "  -d, --debug        enable communication debugging\n" \
 	  "\n"
-	  "Homepage: <" PACKAGE_URL ">\n"
+//	  "Homepage: <" PACKAGE_URL ">\n"
 	);
 }
 

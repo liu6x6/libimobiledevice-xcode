@@ -42,7 +42,7 @@
 #include <libimobiledevice/libimobiledevice.h>
 #include <libimobiledevice/lockdown.h>
 #include <libimobiledevice/misagent.h>
-#include "common/utils.h"
+#include "utils.h"
 
 static void print_usage(int argc, char **argv)
 {
@@ -71,7 +71,7 @@ static void print_usage(int argc, char **argv)
 	printf("  -x, --xml        print XML output when using the 'dump' command\n");
 	printf("  -h, --help       prints usage information\n");
 	printf("\n");
-	printf("Homepage: <" PACKAGE_URL ">\n");
+//	printf("Homepage: <" PACKAGE_URL ">\n");
 }
 
 enum {

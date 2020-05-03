@@ -505,7 +505,7 @@ static void print_usage(int argc, char **argv, int is_error)
 	  "  -K, --no-kernel  suppress kernel messages\n" \
 	  "For filter example usage consult idevicesyslog(1) man page.\n" \
 	  "\n" \
-	  "Homepage: <" PACKAGE_URL ">\n"
+//	  "Homepage: <" PACKAGE_URL ">\n"
 	);
 }
 
