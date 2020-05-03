@@ -43,8 +43,8 @@
 #include <libimobiledevice/afc.h>
 #include <libimobiledevice/notification_proxy.h>
 #include <libimobiledevice/mobile_image_mounter.h>
-#include <asprintf.h>
-#include "common/utils.h"
+//#include <asprintf.h>
+#include "utils.h"
 
 static int list_mode = 0;
 static int xml_mode = 0;
@@ -73,7 +73,7 @@ static void print_usage(int argc, char **argv)
 	printf("  -d, --debug\t\tenable communication debugging\n");
 	printf("  -h, --help\t\tprints usage information\n");
 	printf("\n");
-	printf("Homepage: <" PACKAGE_URL ">\n");
+//	printf("Homepage: <" PACKAGE_URL ">\n");
 }
 
 static void parse_opts(int argc, char **argv)

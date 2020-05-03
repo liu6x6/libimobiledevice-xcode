@@ -32,8 +32,8 @@
 #include <libimobiledevice/libimobiledevice.h>
 #include <libimobiledevice/debugserver.h>
 
-#include "common/socket.h"
-#include "common/thread.h"
+#include "socket.h"
+#include "thread.h"
 
 #define info(...) fprintf(stdout, __VA_ARGS__); fflush(stdout)
 #define debug(...) if(debug_mode) fprintf(stdout, __VA_ARGS__)
@@ -74,7 +74,7 @@ static void print_usage(int argc, char **argv)
 	printf("  -u, --udid UDID\ttarget specific device by UDID\n");
 	printf("  -h, --help\t\tprints usage information\n");
 	printf("\n");
-	printf("Homepage: <" PACKAGE_URL ">\n");
+//	printf("Homepage: <" PACKAGE_URL ">\n");
 }
 
 static void *thread_device_to_client(void *data)

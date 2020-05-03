@@ -73,7 +73,7 @@ static void print_usage(int argc, char **argv)
 	printf("  -u, --udid UDID\ttarget specific device by UDID\n");
 	printf("  -h, --help\t\tprints usage information\n");
 	printf("\n");
-	printf("Homepage: <" PACKAGE_URL ">\n");
+//	printf("Homepage: <" PACKAGE_URL ">\n");
 }
 
 static void notify_cb(const char *notification, void *user_data)
