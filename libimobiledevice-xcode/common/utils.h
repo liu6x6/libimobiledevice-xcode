@@ -26,7 +26,7 @@
 #define __UTILS_H
 #define HAVE_STPCPY
 #ifdef HAVE_CONFIG_H
-#include <config.h>
+#include "config.h"
 #endif
 
 #ifdef WIN32
